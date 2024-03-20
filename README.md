@@ -24,9 +24,9 @@ Developed by : Bhuvaneshwaran H
 Register number : 212223240018
 
 ```
-a=(input())
+a=input()
 
-b=(input())
+b=input()
 
 c=a
 
